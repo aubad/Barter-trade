@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898940340654",
+    "project_id": "online-barter-trading-bf67b",
+    "storage_bucket": "online-barter-trading-bf67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898940340654:android:5ea39b1c2b010c7503e03f",
+        "android_client_info": {
+          "package_name": "com.example.csci3130project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898940340654-lr47flubrrg6lfekiucnv7v43bjq9m84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2FDCzaK33MboViIMn7fkVCYbM8JL-EZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898940340654-lr47flubrrg6lfekiucnv7v43bjq9m84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

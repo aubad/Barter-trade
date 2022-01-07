@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Barter Trader</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Online Barter Trader</string>
+    <string name="nav_header_subtitle">Group 6 - CSCI3130</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_reg">Register</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="itemCatArray">
+        <item>Furniture</item>
+        <item>Electronics</item>
+        <item>Toys &amp; Games</item>
+        <item>Clothing</item>
+        <item>Cars &amp; Vehicles</item>
+        <item>Food &amp; Drinks</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>
